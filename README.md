@@ -12,4 +12,4 @@ cd InfoPhone
 
 pip install requests
 
-python PhoneInfoga
+python PhoneInfoga.py
